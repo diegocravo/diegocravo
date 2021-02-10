@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Diego and I am a system development student
-### 🔭 I’m currently working at Elife as a IT Infrastructure Intern
+### Hi there 👋, 
+my name is Diego and I am a system development student
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocravo&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
