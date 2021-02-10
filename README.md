@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocravo&hide=contribs,prs&count_private=true&show_icons=true?theme=DARK)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocravo&layout=compact)](https://github.com/diegocravo/github-readme-stats)
 <!--
 **diegocravo/diegocravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
