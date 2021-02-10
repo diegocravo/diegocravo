@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Diego and I am a system development student
+### 🔭 I’m currently working at Elife as a IT Infrastructure Intern
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocravo&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocravo&layout=compact&theme=tokyonight)](https://github.com/diegocravo/github-readme-stats)
+
 <!--
 **diegocravo/diegocravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
